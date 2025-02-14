@@ -243,8 +243,12 @@ header.sticky .nav-bar {
     margin-right: 50px;
 }
 
-.nav-items a:hover {
+.nav-items a {
     color: var(--second-color);
+}
+
+.nav-items a:hover {
+    color: #000080;
 }
 
 .nav-menu-btn {
